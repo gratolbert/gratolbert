@@ -1,6 +1,7 @@
 # Grant Tolbert
 
 Cloud Infrastructure | AWS | Azure | Terraform | Containers
+
 ![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
 ![Azure](https://img.shields.io/badge/Azure-Cloud-blue)
 ![Terraform](https://img.shields.io/badge/Terraform-IaC-purple)
