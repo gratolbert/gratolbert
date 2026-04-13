@@ -1,53 +1,65 @@
 # Grant Tolbert
 
-Cloud Infrastructure | Cloud Engineering | Multi-Cloud
+Cloud Infrastructure | AWS | Azure | Terraform | Containers
 
-Hands-on cloud engineering portfolio focused on AWS, Azure, and Infrastructure as Code.
+Hands-on cloud engineering portfolio focused on infrastructure design, automation, and containerized workloads.
 
 ---
 
-## Cloud Engineering Portfolio
+# Cloud Engineering Projects
 
-### AWS Projects
+## AWS
 
-AWS Secure VPC Infrastructure Lab  
+**AWS Secure VPC Infrastructure Lab**
 Secure network architecture with bastion host and private EC2 access.
 
-Terraform AWS Infrastructure Lab  
+**Terraform AWS Infrastructure Lab**
 Automated AWS infrastructure deployment using Terraform.
 
 ---
 
-### Azure Projects
+## Azure
 
-Azure Hybrid Infrastructure Lab  
-Hybrid architecture integrating Azure virtual networking with on-prem style infrastructure.
+**Azure Hybrid Infrastructure Lab**
+Hybrid architecture integrating Azure networking with on-prem style infrastructure.
 
 ---
 
-## Skills
+## Containers
+
+**Docker Container Lab**
+Demonstrates containerized web applications, Docker networking, and multi-container deployments.
+
+Repository:
+https://github.com/gratolbert/docker-container-lab
+
+---
+
+# Skills
 
 Cloud Platforms
-- AWS
-- Azure
+
+* AWS
+* Azure
 
 Infrastructure as Code
-- Terraform
+
+* Terraform
+
+Containers
+
+* Docker
 
 Networking
-- VPC
-- Virtual Networks
-- Bastion architecture
 
-Compute
-- EC2
-- Azure Virtual Machines
+* VPC Design
+* Virtual Networks
+* Bastion Architecture
 
 ---
 
-## Currently Learning
+# Currently Learning
 
-Docker  
-Kubernetes  
+Docker Compose
+Kubernetes
 CI/CD Automation
-
