@@ -48,15 +48,17 @@ Azure Virtual Network, VPN Gateway, Azure VM
 Repo:
 https://github.com/gratolbert/azure-hybrid-infrastructure-lab
 
-## Containers
+# Containers
 
-**Docker Container Lab**
+### Docker Container Lab
+
 Demonstrates containerized web applications, Docker networking, and multi-container deployments.
 
 Repository:
 https://github.com/gratolbert/docker-container-lab
 
-**Docker Compose Microservices Lab**
+### Docker Compose Microservices Lab
+
 Multi-container application deployment using Docker Compose.
 
 Repository:
