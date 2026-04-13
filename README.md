@@ -1,6 +1,12 @@
 # Grant Tolbert
 
 Cloud Infrastructure | AWS | Azure | Terraform | Containers
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
+![Azure](https://img.shields.io/badge/Azure-Cloud-blue)
+![Terraform](https://img.shields.io/badge/Terraform-IaC-purple)
+![Docker](https://img.shields.io/badge/Docker-Containers-blue)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue)
+![Linux](https://img.shields.io/badge/Linux-System-yellow)
 
 Hands-on cloud engineering portfolio focused on infrastructure design, automation, and containerized workloads.
 
