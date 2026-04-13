@@ -56,7 +56,14 @@ Demonstrates containerized web applications, Docker networking, and multi-contai
 Repository:
 https://github.com/gratolbert/docker-container-lab
 
+**Docker Compose Microservices Lab**
+Multi-container application deployment using Docker Compose.
+
+Repository:
+https://github.com/gratolbert/docker-compose-microservices-lab
+
 ---
+
 
 # Skills
 
