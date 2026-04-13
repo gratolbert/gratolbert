@@ -6,24 +6,40 @@ Hands-on cloud engineering portfolio focused on infrastructure design, automatio
 
 ---
 
-# Cloud Engineering Projects
+# AWS Projects
 
-## AWS
+### AWS Secure VPC Infrastructure Lab
+Designed a secure AWS network architecture using public and private subnets with bastion host access.
 
-**AWS Secure VPC Infrastructure Lab**
-Secure network architecture with bastion host and private EC2 access.
+Technologies:
+AWS VPC, EC2, Internet Gateway, NAT Gateway
 
-**Terraform AWS Infrastructure Lab**
-Automated AWS infrastructure deployment using Terraform.
+Repo:
+https://github.com/gratolbert/aws-infrastructure-lab
+
+---
+
+### Terraform AWS Infrastructure Lab
+Automated AWS infrastructure deployment using Terraform Infrastructure as Code.
+
+Technologies:
+Terraform, AWS VPC, EC2
+
+Repo:
+https://github.com/gratolbert/terraform-aws-infrastructure-lab
 
 ---
 
-## Azure
+# Azure Projects
 
-**Azure Hybrid Infrastructure Lab**
-Hybrid architecture integrating Azure networking with on-prem style infrastructure.
+### Azure Hybrid Infrastructure Lab
+Built a hybrid cloud architecture integrating Azure networking with on-prem style infrastructure.
 
----
+Technologies:
+Azure Virtual Network, VPN Gateway, Azure VM
+
+Repo:
+https://github.com/gratolbert/azure-hybrid-infrastructure-lab
 
 ## Containers
 
