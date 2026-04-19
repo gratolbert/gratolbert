@@ -67,7 +67,16 @@ Repository:
 https://github.com/gratolbert/docker-compose-microservices-lab
 
 ---
+### Kubernetes Deployment Lab
 
+Deployed a containerized application to a Kubernetes cluster using deployments and services.
+
+Technologies:
+Kubernetes, kubectl, Docker Desktop, NGINX
+
+Repository:
+https://github.com/gratolbert/kubernetes-deployment-lab
+---
 
 # Skills
 
