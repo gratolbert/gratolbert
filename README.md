@@ -76,8 +76,18 @@ Kubernetes, kubectl, Docker Desktop, NGINX
 
 Repository:
 https://github.com/gratolbert/kubernetes-deployment-lab
----
 
+---
+### CI/CD Kubernetes Lab
+
+Implemented an automated CI pipeline using GitHub Actions that builds a Docker container and deploys a containerized application to Kubernetes.
+
+Technologies  
+GitHub Actions, Docker, Kubernetes, CI/CD Automation
+
+Repository  
+https://github.com/gratolbert/cicd-kubernetes-lab
+---
 # Skills
 
 Cloud Platforms
@@ -103,8 +113,12 @@ Networking
 
 # Currently Learning
 
-Docker Compose
-Kubernetes
+AWS Infrastructure
+Terraform Infrastructure
+Azure Hybrid Infrastructure
+Docker Containers
+Docker Compose Microservices
+Kubernetes Deployment
 CI/CD Automation
 
 
