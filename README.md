@@ -67,6 +67,7 @@ Repository:
 https://github.com/gratolbert/docker-compose-microservices-lab
 
 ---
+
 ### Kubernetes Deployment Lab
 
 Deployed a containerized application to a Kubernetes cluster using deployments and services.
@@ -78,6 +79,7 @@ Repository:
 https://github.com/gratolbert/kubernetes-deployment-lab
 
 ---
+
 ### CI/CD Kubernetes Lab
 
 Implemented an automated CI pipeline using GitHub Actions that builds a Docker container and deploys a containerized application to Kubernetes.
@@ -87,6 +89,7 @@ GitHub Actions, Docker, Kubernetes, CI/CD Automation
 
 Repository  
 https://github.com/gratolbert/cicd-kubernetes-lab
+
 ---
 # Skills
 
